@@ -8,5 +8,9 @@ Task 2-Prediction using Unsupervised ML.
 
 Predicting the optimum number of clusters for the IRIS dataset and representing it visually. Dataset can be found at  https://bit.ly/3kXTdox.
 
+Task 3- Prediction using Decision Tree Algorithm
+
+Creating the Decision Tree classifier and visualizing it graphically.
+
 
 
